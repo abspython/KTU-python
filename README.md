@@ -1,6 +1,6 @@
 # String 
 
-1. ## Write  a python program to remove all vowels from a given string. *[S-July17]*
+1. #### Write  a python program to remove all vowels from a given string. *[S-July17]*
 
 2. ##### Write a program to perform the following operations on a given string. *[S-July17]*
 
