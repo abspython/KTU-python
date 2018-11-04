@@ -6,7 +6,6 @@ The questions below are extracted from previous years question paper of KTU univ
 
 ## Table of contents
 
-------
 
 - [String](#string)
 - [List](#list)
@@ -16,7 +15,6 @@ The questions below are extracted from previous years question paper of KTU univ
 
 
 
-------
 
 ## String 
 
